@@ -1,0 +1,1352 @@
+[
+    {
+        "id": 1611839,
+        "date": 1682940594,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611839,
+        "date": 1682940594,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611833,
+        "date": 1682936060,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1611833,
+        "date": 1682936060,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1611815,
+        "date": 1682920643,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1611815,
+        "date": 1682920643,
+        "country": "US",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1611791,
+        "date": 1682892503,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1611791,
+        "date": 1682892503,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611777,
+        "date": 1682881551,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611777,
+        "date": 1682881551,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611759,
+        "date": 1682870028,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1611759,
+        "date": 1682870028,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1611759,
+        "date": 1682870028,
+        "country": "US",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1611709,
+        "date": 1682857991,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1611709,
+        "date": 1682857991,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611709,
+        "date": 1682857991,
+        "country": "US",
+        "sentiment": -0.2
+    },
+    {
+        "id": 1611641,
+        "date": 1682826034,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611641,
+        "date": 1682826034,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611619,
+        "date": 1682800952,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1611619,
+        "date": 1682800952,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1611611,
+        "date": 1682797864,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1611611,
+        "date": 1682797864,
+        "country": "AZ",
+        "sentiment": -0.2
+    },
+    {
+        "id": 1611611,
+        "date": 1682797864,
+        "country": "AM",
+        "sentiment": -0.2
+    },
+    {
+        "id": 1611597,
+        "date": 1682792284,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611597,
+        "date": 1682792284,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611443,
+        "date": 1682737751,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611443,
+        "date": 1682737751,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611435,
+        "date": 1682731204,
+        "country": "RU",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1611435,
+        "date": 1682731204,
+        "country": "SY",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1611403,
+        "date": 1682713099,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611403,
+        "date": 1682713099,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611383,
+        "date": 1682705527,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1611297,
+        "date": 1682694424,
+        "country": "RU",
+        "sentiment": 0.5
+    },
+    {
+        "id": 1611297,
+        "date": 1682694424,
+        "country": "ID",
+        "sentiment": 0.5
+    },
+    {
+        "id": 1611247,
+        "date": 1682688984,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1611241,
+        "date": 1682688629,
+        "country": "RU",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1611241,
+        "date": 1682688629,
+        "country": "US",
+        "sentiment": -0.6
+    },
+    {
+        "id": 1611241,
+        "date": 1682688629,
+        "country": "KR",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1611237,
+        "date": 1682688568,
+        "country": "UA",
+        "sentiment": -0.9
+    },
+    {
+        "id": 1611237,
+        "date": 1682688568,
+        "country": "RU",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1611239,
+        "date": 1682688566,
+        "country": "IN",
+        "sentiment": 0.5
+    },
+    {
+        "id": 1611239,
+        "date": 1682688566,
+        "country": "RU",
+        "sentiment": 0.5
+    },
+    {
+        "id": 1611233,
+        "date": 1682688463,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1611233,
+        "date": 1682688463,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1611221,
+        "date": 1682686743,
+        "country": "US",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1611221,
+        "date": 1682686743,
+        "country": "BY",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1611201,
+        "date": 1682685015,
+        "country": "RU",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1611201,
+        "date": 1682685015,
+        "country": "US",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1611201,
+        "date": 1682685015,
+        "country": "BY",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1611187,
+        "date": 1682684506,
+        "country": "RS",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1611187,
+        "date": 1682684506,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1611187,
+        "date": 1682684506,
+        "country": "US",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1611097,
+        "date": 1682679341,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1611097,
+        "date": 1682679341,
+        "country": "US",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1610995,
+        "date": 1682670705,
+        "country": "UA",
+        "sentiment": -0.2
+    },
+    {
+        "id": 1610995,
+        "date": 1682670705,
+        "country": "RU",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1610989,
+        "date": 1682669217,
+        "country": "US",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1610989,
+        "date": 1682669217,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610989,
+        "date": 1682669217,
+        "country": "CN",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1610989,
+        "date": 1682669217,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1610989,
+        "date": 1682669217,
+        "country": "IN",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610987,
+        "date": 1682669153,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1610987,
+        "date": 1682669153,
+        "country": "US",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610987,
+        "date": 1682669153,
+        "country": "KG",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1610987,
+        "date": 1682669153,
+        "country": "TJ",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1610935,
+        "date": 1682658007,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1610935,
+        "date": 1682658007,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610921,
+        "date": 1682650773,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1610921,
+        "date": 1682650773,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "IN",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "RU",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "KZ",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "KG",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "CN",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "TJ",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "PK",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "UZ",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "BY",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610843,
+        "date": 1682619019,
+        "country": "IR",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610809,
+        "date": 1682612058,
+        "country": "PL",
+        "sentiment": -0.2
+    },
+    {
+        "id": 1610809,
+        "date": 1682612058,
+        "country": "RU",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610807,
+        "date": 1682611869,
+        "country": "RU",
+        "sentiment": -0.2
+    },
+    {
+        "id": 1610807,
+        "date": 1682611869,
+        "country": "UA",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1610501,
+        "date": 1682593274,
+        "country": "RU",
+        "sentiment": -0.1
+    },
+    {
+        "id": 1610485,
+        "date": 1682591871,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1610485,
+        "date": 1682591871,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610423,
+        "date": 1682587258,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1610367,
+        "date": 1682581770,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1610367,
+        "date": 1682581770,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610351,
+        "date": 1682579440,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610351,
+        "date": 1682579440,
+        "country": "RU",
+        "sentiment": -0.1
+    },
+    {
+        "id": 1610325,
+        "date": 1682577279,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1610305,
+        "date": 1682563349,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1610305,
+        "date": 1682563349,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610305,
+        "date": 1682563349,
+        "country": "US",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1610271,
+        "date": 1682541592,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1610271,
+        "date": 1682541592,
+        "country": "UA",
+        "sentiment": -0.1
+    },
+    {
+        "id": 1610215,
+        "date": 1682528946,
+        "country": "RU",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610215,
+        "date": 1682528946,
+        "country": "SD",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1610173,
+        "date": 1682524540,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1610157,
+        "date": 1682522457,
+        "country": "CN",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1610077,
+        "date": 1682515731,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610025,
+        "date": 1682512835,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1610025,
+        "date": 1682512835,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1610025,
+        "date": 1682512835,
+        "country": "PL",
+        "sentiment": -0.6
+    },
+    {
+        "id": 1609917,
+        "date": 1682507913,
+        "country": "RU",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609917,
+        "date": 1682507913,
+        "country": "GB",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609917,
+        "date": 1682507913,
+        "country": "UA",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1609909,
+        "date": 1682507227,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609885,
+        "date": 1682505872,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609859,
+        "date": 1682504746,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609829,
+        "date": 1682503417,
+        "country": "RU",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609829,
+        "date": 1682503417,
+        "country": "FR",
+        "sentiment": -0.9
+    },
+    {
+        "id": 1609829,
+        "date": 1682503417,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1609789,
+        "date": 1682500320,
+        "country": "BY",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609789,
+        "date": 1682500320,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609789,
+        "date": 1682500320,
+        "country": "US",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609763,
+        "date": 1682496559,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609763,
+        "date": 1682496559,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1609763,
+        "date": 1682496559,
+        "country": "US",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1609757,
+        "date": 1682495698,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609757,
+        "date": 1682495698,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609739,
+        "date": 1682494136,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609739,
+        "date": 1682494136,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1609723,
+        "date": 1682491240,
+        "country": "UA",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1609723,
+        "date": 1682491240,
+        "country": "RU",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609719,
+        "date": 1682488995,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1609719,
+        "date": 1682488995,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1609717,
+        "date": 1682486490,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1609717,
+        "date": 1682486490,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1609703,
+        "date": 1682481120,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609703,
+        "date": 1682481120,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609653,
+        "date": 1682460323,
+        "country": "RU",
+        "sentiment": 0.0
+    },
+    {
+        "id": 1609653,
+        "date": 1682460323,
+        "country": "NO",
+        "sentiment": -0.1
+    },
+    {
+        "id": 1609449,
+        "date": 1682436698,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609449,
+        "date": 1682436698,
+        "country": "IR",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609443,
+        "date": 1682436186,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609443,
+        "date": 1682436186,
+        "country": "US",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609411,
+        "date": 1682432823,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609411,
+        "date": 1682432823,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609401,
+        "date": 1682431723,
+        "country": "TR",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1609401,
+        "date": 1682431723,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609401,
+        "date": 1682431723,
+        "country": "SY",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609401,
+        "date": 1682431723,
+        "country": "IR",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609375,
+        "date": 1682429152,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609375,
+        "date": 1682429152,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609349,
+        "date": 1682427346,
+        "country": "UA",
+        "sentiment": -0.9
+    },
+    {
+        "id": 1609349,
+        "date": 1682427346,
+        "country": "RU",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609349,
+        "date": 1682427346,
+        "country": "US",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609345,
+        "date": 1682427154,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609345,
+        "date": 1682427154,
+        "country": "US",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609339,
+        "date": 1682426407,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1609339,
+        "date": 1682426407,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609339,
+        "date": 1682426407,
+        "country": "US",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1609339,
+        "date": 1682426407,
+        "country": "GB",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1609313,
+        "date": 1682425672,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609313,
+        "date": 1682425672,
+        "country": "IR",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609313,
+        "date": 1682425672,
+        "country": "TR",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609313,
+        "date": 1682425672,
+        "country": "SY",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609287,
+        "date": 1682424568,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609287,
+        "date": 1682424568,
+        "country": "US",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609221,
+        "date": 1682419038,
+        "country": "RU",
+        "sentiment": -0.6
+    },
+    {
+        "id": 1609221,
+        "date": 1682419038,
+        "country": "CN",
+        "sentiment": -0.4
+    },
+    {
+        "id": 1609221,
+        "date": 1682419038,
+        "country": "US",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609211,
+        "date": 1682418546,
+        "country": "RU",
+        "sentiment": -0.2
+    },
+    {
+        "id": 1609211,
+        "date": 1682418546,
+        "country": "SD",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1609199,
+        "date": 1682417025,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609195,
+        "date": 1682416674,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1609195,
+        "date": 1682416674,
+        "country": "US",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609195,
+        "date": 1682416674,
+        "country": "BY",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609181,
+        "date": 1682416171,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1609181,
+        "date": 1682416171,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1609181,
+        "date": 1682416171,
+        "country": "US",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1609159,
+        "date": 1682414435,
+        "country": "RU",
+        "sentiment": 0.7
+    },
+    {
+        "id": 1608741,
+        "date": 1682340797,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608741,
+        "date": 1682340797,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608735,
+        "date": 1682340371,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608735,
+        "date": 1682340371,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608673,
+        "date": 1682335921,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1608673,
+        "date": 1682335921,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1608649,
+        "date": 1682334105,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1608649,
+        "date": 1682334105,
+        "country": "SD",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608607,
+        "date": 1682331693,
+        "country": "RU",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1608607,
+        "date": 1682331693,
+        "country": "KR",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1608607,
+        "date": 1682331693,
+        "country": "US",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608477,
+        "date": 1682314496,
+        "country": "UA",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1608477,
+        "date": 1682314496,
+        "country": "RU",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1608475,
+        "date": 1682313360,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608475,
+        "date": 1682313360,
+        "country": "RU",
+        "sentiment": -0.6
+    },
+    {
+        "id": 1608467,
+        "date": 1682308112,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1608467,
+        "date": 1682308112,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608449,
+        "date": 1682298544,
+        "country": "US",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1608449,
+        "date": 1682298544,
+        "country": "SD",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608427,
+        "date": 1682280803,
+        "country": "AZ",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608427,
+        "date": 1682280803,
+        "country": "AM",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1608339,
+        "date": 1682253854,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608339,
+        "date": 1682253854,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1608335,
+        "date": 1682253507,
+        "country": "RU",
+        "sentiment": 0.4
+    },
+    {
+        "id": 1608335,
+        "date": 1682253507,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1608333,
+        "date": 1682253470,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608333,
+        "date": 1682253470,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608331,
+        "date": 1682253399,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608331,
+        "date": 1682253399,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608329,
+        "date": 1682252992,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608329,
+        "date": 1682252992,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608283,
+        "date": 1682221571,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608283,
+        "date": 1682221571,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1608283,
+        "date": 1682221571,
+        "country": "DE",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1608279,
+        "date": 1682220653,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1608279,
+        "date": 1682220653,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608273,
+        "date": 1682216916,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608273,
+        "date": 1682216916,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608197,
+        "date": 1682174714,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1608197,
+        "date": 1682174714,
+        "country": "RU",
+        "sentiment": 0.3
+    },
+    {
+        "id": 1608177,
+        "date": 1682171163,
+        "country": "RU",
+        "sentiment": 0.1
+    },
+    {
+        "id": 1608177,
+        "date": 1682171163,
+        "country": "UA",
+        "sentiment": -0.9
+    },
+    {
+        "id": 1608173,
+        "date": 1682171101,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608173,
+        "date": 1682171101,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1608171,
+        "date": 1682171068,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608171,
+        "date": 1682171068,
+        "country": "UA",
+        "sentiment": -0.5
+    },
+    {
+        "id": 1608167,
+        "date": 1682170882,
+        "country": "RU",
+        "sentiment": 0.2
+    },
+    {
+        "id": 1608167,
+        "date": 1682170882,
+        "country": "UA",
+        "sentiment": -0.8
+    },
+    {
+        "id": 1608167,
+        "date": 1682170882,
+        "country": "US",
+        "sentiment": -0.3
+    },
+    {
+        "id": 1608161,
+        "date": 1682168563,
+        "country": "UA",
+        "sentiment": -0.7
+    },
+    {
+        "id": 1608161,
+        "date": 1682168563,
+        "country": "RU",
+        "sentiment": 0.2
+    }
+]
